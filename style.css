@@ -694,19 +694,16 @@ hr {
     }
 }
 @media screen and (max-width: 479px) {
-    .main-grid-items {
-        grid-template-columns: repeat(1,280px);
-    }
     .banner-cntlr {
         padding: 45px 20px 56px;
     }
 
     
-    .upcoming-sec .main-grid-items {
-        grid-template-columns: repeat(1,280px);
-    }
     .upcoming-sec .main-grid-item-description {
         padding: 30px 25px;
+    }
+    .upcoming-sec .main-grid-item-countries-flg i {
+        width: 80px;
     }
 }
 
