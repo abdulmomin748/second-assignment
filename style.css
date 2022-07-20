@@ -409,6 +409,7 @@ hr {
 }
 
 
+
 /* start-responsive  */
 @media screen and (max-width: 1199px) {
     h1, .wc-h1{
@@ -463,13 +464,9 @@ hr {
         width: 32%;
         padding-right: 40px;
     }
-    /* .main-rgt {
-        width: 68%;
-    } */
     .banner-cntlr{
         padding: 60px 50px 50px;
     }
-
 
 
     .upcoming-sec .main-rgt {
@@ -488,6 +485,7 @@ hr {
     .banner-cntlr {
         padding: 45px 45px 40px;
     }
+
 
     .main-grid-items{
         gap: 15px;
@@ -508,7 +506,6 @@ hr {
         padding: 14px 18px;
         font-size: 18px;
     }
-
 
 
     .upcoming-sec .main-rgt {
@@ -532,7 +529,6 @@ hr {
         font-size: 16px;
     }
 
-
 }
 @media screen and (max-width: 768px) {
     h1, .wc-h1{
@@ -546,7 +542,6 @@ hr {
         font-size: 32px;
         margin-bottom: 16px;
     }
-
 
     .banner-sec{
         padding: 30px 0;
@@ -578,6 +573,7 @@ hr {
         font-weight: 700;
     }
 
+
     .main-sec{
         padding: 40px 0 50px;
     }
@@ -606,7 +602,6 @@ hr {
         background-color: initial;
         text-align: center;
         padding: 0 0 0;
-
     }
     .main-left-cntlr ul{
         display: flex;
@@ -635,6 +630,7 @@ hr {
     h4, .wc-h5 {
         font-size: 18px;
     }
+
 
     .ftr-menu ul{
         flex-direction: column;
@@ -681,7 +677,6 @@ hr {
         flex-direction: column;
         padding-bottom: 30px;
     }
-    
 }
 @media screen and (min-width: 578px) and (max-width: 768px) {
     .tablet-mode a{
@@ -698,7 +693,6 @@ hr {
         padding: 45px 20px 56px;
     }
 
-    
     .upcoming-sec .main-grid-item-description {
         padding: 30px 25px;
     }
